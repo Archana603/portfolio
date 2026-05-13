@@ -26,7 +26,7 @@ function Navbar() {
 
       {/* Mobile Nav */}
       <nav id="hamburger-nav">
-        <div className="logo"></div>
+        <div className="logo">Archana</div>
         <div className="hamburger-menu">
           <div
             className={`hamburger-icon ${isMenuOpen ? "open" : ""}`}
